@@ -48,8 +48,3 @@ public class TestController : ControllerBase
         };
     }
 }
-
-//rota
-//metodo 
-//cabeçalho 
-//corpo
